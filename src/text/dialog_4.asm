@@ -612,8 +612,9 @@ Dialog1EB:: ; Fisherman
     db "BIIIIG one!@"
 
 Dialog1EC:: ; Narrator
-    db "The <fishhook> became a  "
-    db "necklace <bra>!     "
+    db "Your <fishhook> is now a "
+	db "pink swimming   "
+    db "suit top <bra>!     "
     db "L-l-lucky!@"
 
 Dialog1ED:: ; Fisherman
@@ -640,44 +641,41 @@ Dialog1EF:: ; Secret Zora
 Dialog1F0:: ; Mermaid
     db "When I was swim-"
     db "ming in the bay,"
-    db "the waves took a"
-    db "very important  "
-    db "necklace from   "
-    db "around my neck! "
+    db "a wave came and "
+    db "took my swim    "
+    db "suit top...     "
     db "If you find it, "
-    db "I will let you  "
-    db "take a scale    "
-    db "from my tail!   @"
+    db "I will give you "
+    db "something good. @"
 
 Dialog1F1:: ; Mermaid
-    db "I have already  "
-    db "looked around   "
-    db "here!@"
+    db "Hey!  Quit it!@"
 
 Dialog1F2:: ; Mermaid
     db "Ahh!  That's it!"
-    db "That's my neck- "
-    db "lace!  Give it! "
-    db "Give it back!  I"
-    db "will give you a "
-    db "scale as I said!"
-    db "    Give Keep<ask>"
+    db "My swim suit!   "
+    db "Hey!  Give it to"
+    db "me!  Give it!   "
+    db "If you give it  "
+    db "back, I will let"
+	db "you take a scale"
+	db "from my tail!   "
+    db "    Yes! No Way<ask>"
 
 Dialog1F3:: ; Mermaid
-    db "Promise!  You'll"
-    db "only take one!@"
+    db "A-Ah, only take "
+    db "one!@"
 
 Dialog1F4:: ; Mermaid
-    db "You are heart-  "
-    db "less and cruel!@"
+    db "Boo hoo!  You're"
+    db "such a meanie!@"
 
 Dialog1F5:: ; Narrator
-    db "You returned the"
-    db "necklace <bra> and  "
-    db "got a scale <scale> of"
-    db "the mermaid's   "
-    db "tail.  How will "
-    db "you use this?@"
+    db "You took a scale"
+    db "from the mermaid"
+    db "<scale> and gave the <bra>"
+    db "back to her. You"
+    db "are very happy!@"
 
 Dialog1F6:: ; Photographer
     db "I'll call this  "
