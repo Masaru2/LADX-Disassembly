@@ -221,7 +221,7 @@ Dialog1B5:: ; Signpost
     db "<left> Goponga Swamp @"
 
 Dialog1B6:: ; Owl Statue
-    db "MUSIC, THE FISH "
+    db "MUSIC, THE GOD  "
     db "STIRS IN THE EGG"
     db "YOU ARE THERE...@"
 

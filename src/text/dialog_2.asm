@@ -743,7 +743,7 @@ Dialog0F5:: ; Nightmare (final boss)
     db "this island will"
     db "never disappear!"
     db "We would have   "
-    db "been the masters"
+    db "been the gods   "
     db "of this place..."
     db "But you had to  "
     db "come here and   "
