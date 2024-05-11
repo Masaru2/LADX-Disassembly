@@ -857,7 +857,7 @@ Dialog209:: ; Book
     db "Warp Holes on   "
     db "Koholint Island."
     db "You can warp to "
-    db "and fro using   "
+    db "and from using  "
     db "these holes.  If"
     db "you jump into   "
     db "the Warp Hole   "
@@ -1165,7 +1165,7 @@ Dialog22F:: ; Narrator
 Dialog230:: ; Narrator
     db "Hunh?  A keyhole"
     db "here?  It says, "
-    db "'Tale Keyhole'@"
+    db "'Tail Keyhole'@"
 
 Dialog231:: ; Narrator
     db "Hunh?  A keyhole"
