@@ -53,9 +53,9 @@ Dialog0AB:: ; Narrator
     db "      JOY!@"
 
 Dialog0AC:: ; Narrator
-    db "    You got 50  "
-    db "      Rupees!   "
-    db "    Very Nice!@"
+    db "   You got 50   "
+    db "     Rupees!    "
+    db "   Very Nice!@"
 
 Dialog0AD:: ; Narrator
     db "   You got 100  "
