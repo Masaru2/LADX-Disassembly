@@ -3212,17 +3212,21 @@ Data_021_7D6E:
 
 ; palette data for the title screen, including the Marin part.
 Title_BG_Palettes::
-IF LANG_JP
+;IF LANG_JP
     rgb   #F8F8F8, #E83028, #B80028, #000000 ; BG
     rgb   #F8F8F8, #F8C020, #F87020, #000000
-ELSE
-    rgb   #F8F8F8, #F84840, #B80028, #000000
-    rgb   #482000, #287018, #002838, #000000
-ENDC
+;ELSE
+;    rgb   #F8F8F8, #F84840, #B80028, #000000
+;    rgb   #482000, #287018, #002838, #000000
+;ENDC
     rgb   #F8F8F8, #60C850, #881010, #000000
     rgb   #F8F8F8, #6860F8, #002838, #E82098
     rgb   #F8F890, #E0B020, #606000, #000000
+IF LANG_JP
     rgb   #F8F890, #60C850, #002838, #000000
+ELSE
+    rgb   #482000, #287018, #002838, #000000 ; INTL trees
+ENDC
     rgb   #F8F8F8, #D89048, #A04880, #6860F8
     rgb   #F8F8F8, #6860F8, #002838, #000000
 
@@ -3231,11 +3235,11 @@ ENDC
     rgb   #0090F8, #306090, #C0C8D8, #000850
     rgb   #0090F8, #000000, #C88830, #F8B898
     rgb   #A858F0, #F0D890, #A8A880, #787840
-IF LANG_JP
+;IF LANG_JP
     rgb   #A8B8F0, #E0B020, #505000, #000000
     rgb   #A8B8F0, #E0B020, #505000, #000000
-ELSE
-    rgb   #A8B8F0, #000000, #886840, #F8D078
-    rgb   #A8B8F0, #000000, #886840, #F8D078
-ENDC
+;ELSE
+;    rgb   #A8B8F0, #000000, #886840, #F8D078
+;    rgb   #A8B8F0, #000000, #886840, #F8D078
+;ENDC
     rgb   #A8B8F0, #F8F8F8, #282800, #F8F8F8
