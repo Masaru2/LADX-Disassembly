@@ -669,7 +669,7 @@ Dialog062:: ; Map
 
 Dialog063:: ; Map
     db "    House By    "
-    db "     The Bay@"
+    db "    The Bay@"
 
 Dialog064:: ; Map
     db "   Trendy Game@"
