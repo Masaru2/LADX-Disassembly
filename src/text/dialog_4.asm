@@ -857,7 +857,7 @@ Dialog209:: ; Book
     db "Warp Holes on   "
     db "Koholint Island."
     db "You can warp to "
-    db "and from using  "
+    db "and fro using   "
     db "these holes.  If"
     db "you jump into   "
     db "the Warp Hole   "
