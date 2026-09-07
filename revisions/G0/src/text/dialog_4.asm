@@ -754,10 +754,10 @@ Dialog1EB::
     db "Riesenbrocken!@"
 
 Dialog1EC::
-    db "Aus dem <fishhook>       "
-    db "wurde           "
-    db "eine <bra>!         "
-    db "So ein Glück!@"
+    db "Dein <fishhook> ist nun  "
+    db "ein sexy Bikini-"
+    db "Oberteil <bra>!     "
+    db "Wow! Sabber...@"
 
 Dialog1ED::
     db "Bin gespannt,   "
@@ -782,38 +782,35 @@ Dialog1EF::
     db "haben.@"
 
 Dialog1F0::
-    db "Ich bin hier    "
-    db "geschwommen, als"
-    db "mir eine        "
-    db "Welle meine     "
-    db "Perlenkette vom "
-    db "Hals riß.       "
-    db "Wenn Du sie     "
+    db "Eine große Welle"
+    db "hat mir beim    "
+    db "Schwimmen mein  "
+    db "Bikini-Oberteil "
+    db "vom Leib geris- "
+    db "sen. Wenn Du sie"
     db "findest, schenke"
     db "ich Dir eine    "
     db "Schuppe von mir!"
     db "@"
 
 Dialog1F1::
-    db "An dieser       "
-    db "Stelle habe ich "
-    db "bereits gesucht!"
-    db "@"
+    db "Hey! Laß das,   "
+    db "Du Strolch!!!@"
 
 Dialog1F2::
-    db "Da IST ja meine "
-    db "Perlenkette!    "
-    db "Hey, gib sie mir"
-    db "zurück! Ich gebe"
-    db "Dir auch eine   "
+    db "Uiiii! Da IST es "
+    db "ja! Mein Bikini-"
+    db "Oberteil! Hey,  "
+    db "gib es mir! Gib "
+    db "es mir sofort   "
+	db "zurück! Ich gebe"
+	db "Dir auch eine   "
     db "Schuppe von mir!"
-    db "    Ja   Nein<ask>"
+    db "    Ja   Lechz<ask>"
 
 Dialog1F3::
-    db "Versprich mir,  "
-    db "daß Du nur eine "
-    db "Schuppe nimmst! "
-    db "Aua! Nur eine!@"
+    db "Hey! Ich sagte  "
+    db "EINE Schuppe!!!@"
 
 Dialog1F4::
     db "SCHLUCHZ! Du    "
@@ -821,11 +818,10 @@ Dialog1F4::
 
 Dialog1F5::
     db "Du hast der Nixe"
-    db "die <bra> gegeben   "
-    db "und dafür eine  "
-    db "<scale> erhalten!     "
-    db "Was machst Du   "
-    db "damit?@"
+    db "eine <scale> ent-     "
+    db "rissen und ihr  "
+    db "dafür das <bra>     "
+    db "zurückgegeben!@"
 
 Dialog1F6::
     db "Ich nenne es    "
