@@ -721,9 +721,10 @@ Dialog1EB::
     db "Il est ENORME!@"
 
 Dialog1EC::
-    db "<fishhook>  devient un   "
-    db "collier <bra>!      "
-    db "Génial!@"
+    db "Tu as échangé   "
+    db "le <fishhook> contre     "
+    db "un bikini <bra> .   "
+	db "Quelle chance!@"
 
 Dialog1ED::
     db "Je me demande   "
@@ -747,26 +748,28 @@ Dialog1EF::
     db "en paix.@"
 
 Dialog1F0::
-    db "J'étais en train"
-    db "de nager et une "
-    db "vague a emporté "
-    db "mon collier!    "
-    db "Si tu le trouves"
+    db "Je nageais      "
+    db "dans cette baie "
+    db "et les vagues   "
+    db "ont emporté     "
+	db "mon bikini. Si  "
+    db "tu le retrouves,"
     db "je te donnerai  "
     db "une écaille de  "
     db "queue!@"
 
 Dialog1F1::
-    db "J'ai déjà       "
-    db "cherché par là@"
+    db "Petit coquin!@"
 
 Dialog1F2::
-    db "Ahh!  Le voilà  "
-    db "C'est mon       "
-    db "collier!  Donne!"
-    db "Donne-le moi!   "
-    db "Je t'offrirai   "
-    db "une écaille!    "
+    db "Oui! C'est      "
+    db "mon Bikini!     "
+    db "Rends-le moi!   "
+    db "Rends-le moi!   "
+    db "En échange,     "
+	db "je te donnerai  "
+	db "une de mes      "
+    db "Ecailles.       "
     db "    Oui  Non<ask>"
 
 Dialog1F3::
@@ -776,12 +779,12 @@ Dialog1F3::
     db "@"
 
 Dialog1F4::
-    db "Méchant!        "
-    db "Je te hais!@"
+    db "Ouin! Ouin!     "
+    db "Tu es vilain!@"
 
 Dialog1F5::
     db "Vous échangez le"
-    db "collier contre  "
+    db "bikini contre   "
     db "une écaille...  "
     db "A quoi sert-    "
     db "elle?@"
@@ -792,10 +795,12 @@ Dialog1F6::
     db "peur.\" Souriez!@"
 
 Dialog1F7::
-    db "Après une séance"
-    db "de pose, un     "
-    db "artiste voulait "
-    db "une écaille.    "
+    db "Naguére, un     "
+    db "artiste lubrique"
+    db "voulait que je  "
+    db "pose pour lui.  "
+	db "Il voulait aussi"
+	db "une écaille!    "
     db "La légende de la"
     db "Loupe est-elle  "
     db "vraie...?@"

@@ -280,11 +280,10 @@ Dialog0AE::
     db "Quelle extase!@"
 
 Dialog0AF::
-    db "Va-t'en!        "
-    db "Tu vois pas que "
-    db "je pose? Le beau"
-    db "Sven doit faire "
-    db "mon portrait!@"
+    db "Arrête de       "
+    db "m'embêter! Si tu"
+    db "continues, je te"
+    db "mets une baffe!@"
 
 Dialog0B0::
     db "GRRR! GRR!      "
