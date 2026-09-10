@@ -795,7 +795,7 @@ Dialog1F6::
     db "peur.\" Souriez!@"
 
 Dialog1F7::
-    db "Naguére, un     "
+    db "Naguère, un     "
     db "artiste lubrique"
     db "voulait que je  "
     db "pose pour lui.  "
