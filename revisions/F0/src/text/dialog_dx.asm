@@ -152,10 +152,10 @@ Dialog0F9::
     db "de pros ici...@"
 
 Dialog0FA::
-    db "Va-t'en!@"
+    db "Allez zou!@"
 
 Dialog0FB::
-    db "Arrête!@"
+    db "Arrête un peu!@"
 
 Dialog0FC::
     db "Ce n'est pas une"

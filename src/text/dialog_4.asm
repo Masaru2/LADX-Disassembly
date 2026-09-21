@@ -646,7 +646,8 @@ Dialog1F0:: ; Mermaid
     db "suit top...     "
     db "If you find it, "
     db "I will give you "
-    db "something good. @"
+    db "a scale from my "
+	db "tail.@"
 
 Dialog1F1:: ; Mermaid
     db "Hey!  Quit it!@"
@@ -655,11 +656,9 @@ Dialog1F2:: ; Mermaid
     db "Ahh!  That's it!"
     db "My swim suit!   "
     db "Hey!  Give it to"
-    db "me!  Give it!   "
-    db "If you give it  "
-    db "back, I will let"
-	db "you take a scale"
-	db "from my tail!   "
+    db "me!  Give it!  I"
+    db "will give you a "
+    db "scale as I said!"
     db "    Yes! No Way<ask>"
 
 Dialog1F3:: ; Mermaid

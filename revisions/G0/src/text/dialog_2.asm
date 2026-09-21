@@ -65,7 +65,11 @@ Dialog0AE::
     db " Waaaaaahnsinn!@"
 
 Dialog0AF::
-    db "Hau ab!@"
+    db "Glotz mich nicht"
+	db "so blöd an! Noch"
+	db "nie eine nackte "
+	db "Frau gesehen???@"
+
 
 Dialog0B0::
     db "Buzzzzz Buzzzzz!"
@@ -806,10 +810,10 @@ Dialog0F9::
     db "wir hier nicht!@"
 
 Dialog0FA::
-    db "Hau ab!@"
+    db "Hau ab!!!@"
 
 Dialog0FB::
-    db "Laß es bleiben!@"
+    db "Laß das!@"
 
 Dialog0FC::
     db "Das ist keine   "
