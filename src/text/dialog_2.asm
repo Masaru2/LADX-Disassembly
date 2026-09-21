@@ -786,7 +786,7 @@ Dialog0F9:: ; Trendy Gamester
 Dialog0FA:: ; Hippo
     db "Go away!@"
 
-Dialog0FB:: ; idk
+Dialog0FB:: ; Hippo
     db "Quit it!@"
 
 Dialog0FC:: ; Narrator
